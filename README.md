@@ -1,2 +1,3 @@
 # hello-world
-this is my first base
+这是我的第一个基地
+这是我创建的一个分支
